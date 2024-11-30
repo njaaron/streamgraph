@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/streamgraph/static/css/main.539d5065.css",
+    "main.js": "/streamgraph/static/js/main.ae3f25c8.js",
+    "static/js/453.45648487.chunk.js": "/streamgraph/static/js/453.45648487.chunk.js",
+    "index.html": "/streamgraph/index.html",
+    "main.539d5065.css.map": "/streamgraph/static/css/main.539d5065.css.map",
+    "main.ae3f25c8.js.map": "/streamgraph/static/js/main.ae3f25c8.js.map",
+    "453.45648487.chunk.js.map": "/streamgraph/static/js/453.45648487.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.539d5065.css",
+    "static/js/main.ae3f25c8.js"
+  ]
+}
